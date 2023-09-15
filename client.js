@@ -1,4 +1,5 @@
 const form=document.querySelector('form');
+//file handling
 
 form.addEventListener('submit',(e)=>{
     e.preventDefault();
